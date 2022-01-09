@@ -1,0 +1,77 @@
+.login {
+    width: 400px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #dddfe2;
+    box-shadow: 0 0 15px 5px rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+/*.login {
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #09090a;
+    margin: 0.5rem 0.1rem;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 2rem;
+}
+
+.login > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 2rem;
+    align-items: center;
+    width: 92%;
+    margin: 1.2rem 3rem 1rem 1.5rem ;
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.login h1{
+    font-size: 3rem;
+    color: #fff;
+}
+.or{
+    font-size: 2rem;
+}*/
